@@ -45,7 +45,7 @@ public class BloggerController {
 	
 	/**
 	 * 
-	 * 关于博主控制类实现
+	 * 关于博主控制类实现DEV
 	 * @return
 	 */
 	@RequestMapping("/aboutMe")
